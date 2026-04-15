@@ -137,7 +137,7 @@ Architecture: Clean Architecture, OOP, SOLID Principles, Design Patterns
 
 - **LinkedIn:** [James Madoc Srinivas](https://www.linkedin.com/in/james-madoc-0a4937301/)
 - **GitHub:** [@jamfjc](https://github.com/jamfjc)
-- **Email:** [your.email@example.com]
+- **Email:** [jamesmadoc4@gmail.com]
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Full-Stack Software Developer** | Python | Java | JavaScript | C# | System Design
 
-I build production-grade backend services, design object-oriented systems, and create elegant solutions to complex problems. I'm passionate about clean code, test-driven development, and leveraging technology to solve real-world challenges.
+I build production-grade frontend and backend services, design object-oriented systems, and create elegant solutions to complex problems. I'm passionate about clean code, test-driven development, and leveraging technology to solve real-world challenges.
 
 ---
 
